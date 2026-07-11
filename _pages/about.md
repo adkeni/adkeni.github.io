@@ -2,33 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: >
+  Senior EECS & Data Science Minor at UC Berkeley. USPTO Inventor. AI Engineer Intern at PwC India.
+ 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  image: profile.jpg
+  image_circular: true
+  address: >
+    <p>Maximino Martinez Commons</p>
+    <p>CA 95720</p>
+    <p>adkeni@berkeley.edu</p>
+ 
+news: true                  # includes a list of news items
+selected_papers: true       # includes a list of papers marked as "selected"
+social: true                # includes social icons at the bottom of the page
 ---
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+ 
+I am a senior at **UC Berkeley** studying Electrical Engineering & Computer Sciences with a minor in Data Science (expected May 2027). My technical focus lies at the intersection of agentic AI systems, machine learning architectures (such as attention blocks and Hidden Markov Models), and physical electronic circuit design.
+ 
+Currently, I am an **AI Engineer Intern at PwC India** in Mumbai, where I am building agentic ML backends and deploying LLMOps workflows. 
+ 
+Before Berkeley, I was an independent inventor, filing two USPTO applications in high school. My first patent, [Water Management System for Water Conservation (#11,403,720)](https://patents.google.com/patent/US11403720), was granted in August 2022. My second, [Air Monitoring and Control System (US 16/994,597)](https://patents.google.com/patent/US20220068132A1), was published in May 2022.
+ 
+## Technical Interests
+- Context-optimization engines and agentic AI systems
+- Machine Learning (PyTorch, attention layers, Hidden Markov Models)
+- Electronic circuit design, signal processing, and op-amps
+- Algorithmic optimization and competitive programming fundamentals
+ 
+## Currently
+- Interning as an AI Engineer at PwC India (Summer 2026)
+- Expanding my knowledge in fundamental algorithms and preparing for the GRE
+ 
+*Feel free to reach out — I am always happy to discuss AI architectures, contextual retrieval systems, or collaborate on hardware-software integration.*
