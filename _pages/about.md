@@ -33,6 +33,7 @@ Before Berkeley, I was an independent inventor, filing two USPTO applications in
  
 ## Currently
 - Interning as an AI Engineer at PwC India (Summer 2026)
+- Taking CS 169 (Software Engineering) at UC Berkeley
 - Expanding my knowledge in fundamental algorithms and preparing for the GRE
  
 *Feel free to reach out — I am always happy to discuss AI architectures, contextual retrieval systems, or collaborate on hardware-software integration.*
