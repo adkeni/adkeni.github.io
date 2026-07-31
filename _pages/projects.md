@@ -14,7 +14,8 @@ A novel end-to-end framework combining multi-modal synthetic data generation wit
 - **[📄 Read the Manuscript (PDF)](/assets/pdf/Farmer_Manuscript.pdf)**
 - **[📊 View Presentation Deck (PDF)](/assets/pdf/Farmer_Deck.pdf)**
 - **[📋 Read Policy Brief (PDF)](/assets/pdf/Farmer_Policy.pdf)**
-- Status: *Manuscript submitted for peer review to Computers and Electronics in Agriculture*.
+- **[💻 View Source Code (GitHub)](https://github.com/adkeni/Latent-State-Inference-Pipeline)**
+- Status: *Working on manuscript*.
 
 <!-- TO ADD A NEW PROJECT TO THIS SECTION IN THE FUTURE, COPY THE FORMAT STARTING FROM '###' AND PASTE IT RIGHT HERE -->
 
